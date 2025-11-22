@@ -1,0 +1,5 @@
+{
+  "name": "GPass Notify Vue",
+  "description": "A glassmorphism-styled notification dashboard featuring a 3-column layout, Google-style interactions, and integrated notification management.",
+  "requestFramePermissions": []
+}
